@@ -7,8 +7,8 @@
 
 * INTRODUÇÃO
 * Este relatório apresenta o processo de implementação de ferramentas AWS na empresa Pague Menos, realizado 
-* por Jonson Rodrigues Alves. O objetivo do projeto foi selecionar e implementar 3 serviços AWS com a finalidade de 
-* reduzir custos operacionais imediatos, melhorando a eficiência e a escalabilidade da infraestrutura de TI.
+por Jonson Rodrigues Alves. O objetivo do projeto foi selecionar e implementar 3 serviços AWS com a finalidade de 
+reduzir custos operacionais imediatos, melhorando a eficiência e a escalabilidade da infraestrutura de TI.
  
 * DESCRIÇÃO
 * O projeto foi dividido em 3 etapas, cada uma com objetivos específicos relacionados à implementação de ferramentas AWS. 
