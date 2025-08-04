@@ -114,3 +114,15 @@ classDiagram
 * Assinatura: Jonson Rodrigues Alves
 * Cargo: Analista de TI
 * Empresa: Pague Menos
+
+### **Estrutura da Pasta `anexo/`**  
+
+anexo/
+├── ec2_auto_scaling.md
+├── s3_intelligent_tiering.md
+└── rds_aurora_serverless.md
+
+Cada arquivo contém:
+- **Configurações técnicas** (YAML/JSON).
+- **Problema & Solução** específica para a Pague Menos.
+- **Métricas de economia** e próximos passos.  
