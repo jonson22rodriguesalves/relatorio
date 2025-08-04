@@ -15,15 +15,15 @@ reduzir custos operacionais imediatos, melhorando a eficiência e a escalabilida
 * Abaixo estão detalhadas as etapas:
  
 * ETAPA 1: EC2 AUTO SCALING
-* Foco da Ferramenta
-* Escalabilidade automática de instâncias EC2 para otimizar custos e desempenho.
+* ✔ Foco da Ferramenta
+* ✔ Escalabilidade automática de instâncias EC2 para otimizar custos e desempenho.
  
-* Descrição de Caso de Uso
-* A Pague Menos possuía servidores subutilizados em horários de baixa demanda e sobrecarregados em picos (como promoções).
+* ✔ Descrição de Caso de Uso
+* ✔ A Pague Menos possuía servidores subutilizados em horários de baixa demanda e sobrecarregados em picos (como promoções).
  
 * O EC2 Auto Scaling foi configurado para:
-* Aumentar o número de instâncias automaticamente durante picos de tráfego.
-* Reduzir instâncias quando a demanda diminuir, evitando custos desnecessários.
+* ✔ Aumentar o número de instâncias automaticamente durante picos de tráfego.
+* ✔ Reduzir instâncias quando a demanda diminuir, evitando custos desnecessários.
  
 * Vantagens
 * ✔ Redução de custos (paga apenas pelo uso real).
@@ -31,15 +31,15 @@ reduzir custos operacionais imediatos, melhorando a eficiência e a escalabilida
 * ✔ Otimização automática sem intervenção manual.
  
 * ETAPA 2: S3 INTELLIGENT TIERING
-* Foco da Ferramenta
-* Armazenamento de dados com custo otimizado, movendo automaticamente arquivos entre tiers conforme frequência de acesso.
+* ✔ Foco da Ferramenta
+* ✔ Armazenamento de dados com custo otimizado, movendo automaticamente arquivos entre tiers conforme frequência de acesso.
  
-* Descrição de Caso de Uso
-* A empresa armazenava grandes volumes de dados no S3 Standard, mesmo que alguns arquivos fossem raramente acessados.
+* ✔ Descrição de Caso de Uso
+* ✔ A empresa armazenava grandes volumes de dados no S3 Standard, mesmo que alguns arquivos fossem raramente acessados.
  
 * O S3 Intelligent-Tiering foi implementado para:
-* Armazenar automaticamente dados em tiers diferentes (frequente/infrequente).
-* Reduzir custos sem sacrificar acessibilidade.
+* ✔ Armazenar automaticamente dados em tiers diferentes (frequente/infrequente).
+* ✔ Reduzir custos sem sacrificar acessibilidade.
  
 * Vantagens
 * ✔ Economia imediata (até 40% em armazenamento para dados pouco acessados).
@@ -47,15 +47,15 @@ reduzir custos operacionais imediatos, melhorando a eficiência e a escalabilida
 * ✔ Sem taxas de recuperação para dados movidos entre tiers.
  
 * ETAPA 3: AMAZON RDS (AURORA SERVERLESS)
-* Foco da Ferramenta
-* Banco de dados gerenciado com escalonamento automático e ajuste de capacidade sob demanda.
+* ✔ Foco da Ferramenta
+* ✔ Banco de dados gerenciado com escalonamento automático e ajuste de capacidade sob demanda.
  
-* Descrição de Caso de Uso
-* A Pague Menos utilizava bancos de dados provisionados manualmente, gerando custos fixos altos mesmo em períodos ociosos.
+* ✔ Descrição de Caso de Uso
+* ✔ A Pague Menos utilizava bancos de dados provisionados manualmente, gerando custos fixos altos mesmo em períodos ociosos.
  
 * O Amazon Aurora Serverless foi implantado para:
-* Escalonar automaticamente recursos de banco de dados conforme a demanda.
-* Reduzir custos em até 70% comparado a instâncias tradicionais.
+* ✔ Escalonar automaticamente recursos de banco de dados conforme a demanda.
+* ✔ Reduzir custos em até 70% comparado a instâncias tradicionais.
  
 * Vantagens
 * ✔ Custo-efetivo (paga apenas pelo uso computacional real).
