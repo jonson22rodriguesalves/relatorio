@@ -117,10 +117,10 @@ classDiagram
 
 ### **Estrutura da Pasta `anexo/`**  
 
-anexo/
-├── ec2_auto_scaling.md
-├── s3_intelligent_tiering.md
-└── rds_aurora_serverless.md
+* anexo/
+* ├── ec2_auto_scaling.md
+* ├── s3_intelligent_tiering.md
+* └── rds_aurora_serverless.md
 
 Cada arquivo contém:
 - **Configurações técnicas** (YAML/JSON).
