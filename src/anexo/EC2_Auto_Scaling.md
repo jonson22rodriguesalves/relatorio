@@ -5,7 +5,8 @@
 **Responsável:** Jonson Rodrigues Alves
 
 ## **1. Visão Geral**
-O **EC2 Auto Scaling** é um serviço AWS que ajusta automaticamente o número de instâncias EC2 com base na demanda, garantindo custos otimizados e alta disponibilidade.
+O **EC2 Auto Scaling** é um serviço AWS que ajusta automaticamente o número de instâncias EC2 com base na demanda, 
+garantindo custos otimizados e alta disponibilidade.
 
 ## **2. Configuração Implementada**
 ### **2.1. Parâmetros Principais**

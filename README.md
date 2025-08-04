@@ -19,7 +19,8 @@ reduzir custos operacionais imediatos, melhorando a eficiência e a escalabilida
 * ✔ Escalabilidade automática de instâncias EC2 para otimizar custos e desempenho.
  
 * ✔ Descrição de Caso de Uso
-* ✔ A Pague Menos possuía servidores subutilizados em horários de baixa demanda e sobrecarregados em picos (como promoções).
+* ✔ A Pague Menos possuía servidores subutilizados em horários de baixa demanda e sobrecarregados em picos 
+(como promoções).
  
 * O EC2 Auto Scaling foi configurado para:
 * ✔ Aumentar o número de instâncias automaticamente durante picos de tráfego.
@@ -32,7 +33,8 @@ reduzir custos operacionais imediatos, melhorando a eficiência e a escalabilida
  
 * ETAPA 2: S3 INTELLIGENT TIERING
 * ✔ Foco da Ferramenta
-* ✔ Armazenamento de dados com custo otimizado, movendo automaticamente arquivos entre tiers conforme frequência de acesso.
+* ✔ Armazenamento de dados com custo otimizado, movendo automaticamente arquivos entre tiers conforme frequência 
+de acesso.
  
 * ✔ Descrição de Caso de Uso
 * ✔ A empresa armazenava grandes volumes de dados no S3 Standard, mesmo que alguns arquivos fossem raramente acessados.
@@ -51,7 +53,8 @@ reduzir custos operacionais imediatos, melhorando a eficiência e a escalabilida
 * ✔ Banco de dados gerenciado com escalonamento automático e ajuste de capacidade sob demanda.
  
 * ✔ Descrição de Caso de Uso
-* ✔ A Pague Menos utilizava bancos de dados provisionados manualmente, gerando custos fixos altos mesmo em períodos ociosos.
+* ✔ A Pague Menos utilizava bancos de dados provisionados manualmente, gerando custos fixos altos mesmo em 
+períodos ociosos.
  
 * O Amazon Aurora Serverless foi implantado para:
 * ✔ Escalonar automaticamente recursos de banco de dados conforme a demanda.

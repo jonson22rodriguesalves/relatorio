@@ -9,7 +9,8 @@
 **Responsável:** Jonson Rodrigues Alves  
 
 ## **1. Visão Geral**  
-O **Amazon Aurora Serverless** é um banco de dados relacional que escala automaticamente, eliminando a necessidade de provisionamento manual.  
+O **Amazon Aurora Serverless** é um banco de dados relacional que escala automaticamente, eliminando a necessidade 
+de provisionamento manual.  
 
 ## **2. Configuração Implementada**  
 ### **2.1. Parâmetros do Cluster**  

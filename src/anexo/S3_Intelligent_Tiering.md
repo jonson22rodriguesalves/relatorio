@@ -9,7 +9,8 @@
 **Responsável:** Jonson Rodrigues Alves  
 
 ## **1. Visão Geral**  
-O **S3 Intelligent-Tiering** classifica automaticamente objetos em tiers de armazenamento (frequente/infrequente) para reduzir custos sem perda de acesso.  
+O **S3 Intelligent-Tiering** classifica automaticamente objetos em tiers de armazenamento 
+(frequente/infrequente) para reduzir custos sem perda de acesso.  
 
 ## **2. Configuração Implementada**  
 ### **2.1. Regras de Transição**  
